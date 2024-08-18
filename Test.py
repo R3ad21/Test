@@ -1,5 +1,7 @@
 def g():
     print("XEER")
+def y():
+    print("YEER")
 def f():
     global x
     x*=2
